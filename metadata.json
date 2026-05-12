@@ -1,0 +1,5 @@
+{
+  "name": "AI Character Creator",
+  "description": "A text-to-image application for character and avatar generation. Translate detailed text prompts into high-quality, visually consistent character images using AI.",
+  "requestFramePermissions": []
+}
